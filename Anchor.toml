@@ -2,7 +2,13 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-solana_swap = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_swap = "HyJPnD797BzhzkLGfDYbt4qVyghsYkTZtJX8ipb6qABT"
+
+[programs.devnet]
+solana_swap = "HyJPnD797BzhzkLGfDYbt4qVyghsYkTZtJX8ipb6qABT"
+
+[programs.testnet]
+solana_swap = "HyJPnD797BzhzkLGfDYbt4qVyghsYkTZtJX8ipb6qABT"
 
 [registry]
 url = "https://api.apr.dev"

@@ -12,3 +12,4 @@ https://remi.group/project-blockchain-submission
 - Use Git and commit often
 - Have unit test for that contract
 - Smart contract have to be deployed to Solana testnet and execute successfully
+Token Address:  HyJPnD797BzhzkLGfDYbt4qVyghsYkTZtJX8ipb6qABT
