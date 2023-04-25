@@ -9,7 +9,7 @@ pub const POOL_LIQUIDITY_PREFIX: &[u8; 14] = b"POOL_LIQUIDITY";
 pub const POOL_MAX_NAME_LENGTH: u8 = 32;
 
 #[program]
-pub mod remitano_project {
+pub mod solswap_project {
     use super::*;
 
     pub fn initialize_pool(
